@@ -7,7 +7,7 @@ MIN_WORD_COUNT = 5
 WORD2VEC_CONTEXT = 5
 
 # Models
-NN_ARCHITECTURE = 'rnn' # 'cnn'
+NN_ARCHITECTURE = 'cnn' # 
 
 # Training parameters
 BATCH_SIZE = 64
